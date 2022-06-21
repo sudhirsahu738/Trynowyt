@@ -1,5 +1,5 @@
-pyrogram
-tgcrypto
+pyrogram<=1.4.16
+tgcrypto<=1.2.3
 httplib2
 oauth2client
 google-api-python-client
